@@ -2,10 +2,10 @@
 Create a new project by running the following command:
 
 `
-composer create-project symfony/website-skeleton yesman
+composer create-project symfony/website-skeleton projet-de-certification
 `
 
-Aller dans le dossier de votre projet yesman (placez dedans)
+Aller dans le dossier de votre projet projet-de-certification (placez-vous dedans)
 
 `
 composer require symfony/web-server-bundle --dev ^4.4.16
